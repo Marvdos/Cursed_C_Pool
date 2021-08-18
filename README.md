@@ -8,4 +8,4 @@ You can try to understand it but good luck.
 
 Now have fun to read this ***:star: beautiful :star:*** code
 
- - [Firtree](https://github.com/Marvdos/Cursed_C_Pool/tree/main/FireuHtri)
+ - [Firtree](https://github.com/Marvdos/Cursed_C_Pool/tree/main/Firtree)
