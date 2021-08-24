@@ -2,7 +2,7 @@
 
 #### IMPORTANT
 
-If oy are an epitech student DO NOT COPY this code ! or consequences (:eyes: -42)  
+If you are an epitech student DO NOT COPY this code ! or consequences (:eyes: -42)  
 You can try to understand it but good luck.
 #### End of the important thing  
 
